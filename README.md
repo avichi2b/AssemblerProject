@@ -1,2 +1,2 @@
 # AssemblerProject
-a project Idid as part of a cours in the openU
+a project I did as part of a cours in the openU
