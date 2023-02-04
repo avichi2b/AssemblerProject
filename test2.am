@@ -1,0 +1,9 @@
+MAIN: mov Dfa.1, r1
+Lab: mov r1, TEST.1
+.entry TEST
+.extern W
+TEST: prn Lab
+inc W
+prn #-5
+.entry MAIN
+.extern Dfa
